@@ -1,20 +1,26 @@
 nav a{
 color: #4a4646;
 font-weight: bold;
-font-size: 16px;
+font-size: 20px;
 
 }
+header a{
+    color: #da1010;
+}
 
-nav ul{
+ul{
     list-style-type: none;
+}
+li aside {
+    padding: 10px;
 }
 
 .row {
 width: 100%;
 }
 
-.container {
-width: 100%;
+h1 {
+color: #da1010;
 }
 
 body {
