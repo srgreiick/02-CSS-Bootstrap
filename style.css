@@ -9,3 +9,14 @@ nav ul{
     list-style-type: none;
 }
 
+.row {
+width: 100%;
+}
+
+.container {
+width: 100%;
+}
+
+body {
+    width: 100%;
+}
