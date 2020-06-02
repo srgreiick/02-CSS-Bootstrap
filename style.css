@@ -29,3 +29,6 @@ color: #da1010;
 body {
     width: 100%;
 }
+aside p{
+    padding: 10px;
+}
