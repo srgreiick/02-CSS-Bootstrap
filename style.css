@@ -12,7 +12,7 @@ header a{
 }
 header{
     font-size: x-large;
-    
+
 }
 
 ul{
@@ -45,4 +45,8 @@ aside p{
     text-decoration: blue;
     font-size: large;
     text-decoration-color: crimson;
+}
+
+p span {
+    font-style: italic;
 }
