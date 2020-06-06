@@ -26,9 +26,19 @@ h1 {
 color: #da1010;
 }
 
-body {
-    width: 100%;
-}
+
 aside p{
     padding: 10px;
+}
+
+.portfolio {
+    height: 100%;
+    width: 100%;
+    color: red;
+    background-color: black;
+    margin: 50px;
+    text-align: center;
+    text-decoration: blue;
+    font-size: large;
+    text-decoration-color: crimson;
 }

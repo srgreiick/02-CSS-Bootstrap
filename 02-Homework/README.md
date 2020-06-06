@@ -78,11 +78,7 @@ We would like you to have well over 200 commits by graduation, so commit early a
 
 ## Submission on BCS
 
-You are required to submit the following:
 
-* The URLs of the deployed applications
-
-* The URLs of the GitHub repositories
 
 - - -
 
