@@ -10,6 +10,10 @@ p{
 header a{
     color: #da1010;
 }
+header{
+    font-size: x-large;
+    
+}
 
 ul{
     list-style-type: none;
