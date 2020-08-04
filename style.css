@@ -7,6 +7,14 @@ padding: 0px;
 p{
     margin: 0px;
 }
+.portfolio li p {
+    margin: 0%;
+    text-align: left;
+}
+.portfolio li {
+    margin: 5%;
+    text-align: left;
+}
 header a{
     color: #da1010;
 }
